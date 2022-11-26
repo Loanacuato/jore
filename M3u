@@ -1181,8 +1181,6 @@ https://3.ultimate2019.com/stream/hls/276
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/664
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zOiOeqG.png" group-title="Gratis",shortgod.com
-http://shortgod.com/publivideo.mp4
 #EXTINF:-1,BO: Tigo Sports
 http://flash.shortgod.com/dindinperu/tv8.php?id=8773
 #EXTINF:-1,BO: Tigo Sports 3
